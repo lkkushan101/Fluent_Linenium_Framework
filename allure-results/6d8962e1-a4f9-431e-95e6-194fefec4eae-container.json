@@ -1,0 +1,1 @@
+{"uuid":"6d8962e1-a4f9-431e-95e6-194fefec4eae","name":"FluPkg.FluBasic","children":["d6db9613-d971-4500-866b-b94a4f80e1fc"],"befores":[],"afters":[{"name":"afterClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1544662121766,"stop":1544662121767}],"links":[],"start":1544662049655,"stop":1544662122499}
